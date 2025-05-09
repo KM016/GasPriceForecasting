@@ -15,9 +15,9 @@ The dataset consists of monthly natural gas prices from October 2020 to Septembe
 
 ### Project Goals
 
-- **Analyze historical data** to estimate past prices.
+- **Analyse historical data** to estimate past prices.
 - **Build a forecasting model** to predict prices for the upcoming year.
-- **Visualize the data** to identify patterns and forecast results.
+- **Visualise the data** to identify patterns and forecast results.
 - **Allow date-specific price estimates**, returning an estimated price for any input date.
 
 ### Steps Involved
@@ -33,6 +33,6 @@ Key components of the code include:
 
 - `estimate_price(date)`: Returns the estimated price for a given past or future date.
 - Time series forecasting model implementation using the ARIMA model from the `statsmodels` library.
-- Visualization of historical and forecasted prices, with confidence intervals to show prediction accuracy.
+- Visualisation of historical and forecasted prices, with confidence intervals to show prediction accuracy.
 
 
