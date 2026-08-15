@@ -1,9 +1,9 @@
 # Natural Gas Price Forecasting
 
-09/2024<br>
-JPMorgan Chase Forage Quantitative Research Job Simulation
-
 An exploratory time-series model for estimating historical and near-term natural gas prices from a short series of monthly observations.
+
+> 09/2024<br>
+> JPMorgan Chase Forage Quantitative Research Job Simulation
 
 ## Project overview
 
